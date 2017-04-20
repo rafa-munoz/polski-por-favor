@@ -6,13 +6,13 @@ preposición o caso.
 
 En polaco hay 7 formas:
 
-* [Nominativo (Mianownik)](1-nominativo.md)
-* Genitivo (Dopełniacz)
-* Dativo (Celownik)
-* Acusativo (Biernik)
-* Instrumental (Narzędnik)
-* Locativo (Miejscownik)
-* Vocativo (Wołacz)
+* [Mianownik (Nominativo)](1-nominativo.md)
+* Dopełniacz (Genitivo)
+* Celownik (Dativo)
+* Biernik (Acusativo)
+* Narzędnik (Instrumental)
+* Miejscownik (Locativo)
+* Wołacz (Vocativo)
 
 
 Conversación y aprendizaje
