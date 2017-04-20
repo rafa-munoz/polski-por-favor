@@ -12,7 +12,7 @@ Esta declinación responde a ciertas preguntas:
 * Kto?: ¿quién?
 * Co?: ¿qué?
 
-*- Kto to? - To moja córka.*
+*- Kto to? - To moja córka.*  
 *- ¿Quién es? - Esa es mi hija.*
 
 Si utilizamos el "to", podemos usar de manera segura el nominativo, aunque
