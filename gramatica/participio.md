@@ -88,7 +88,7 @@ Tabla de conjugaciones para czytać
 ----------------------------------
 
 |---
-|---| **Imiesłów przymiotnikowy czynny**
+| | **Imiesłów przymiotnikowy czynny**
 |-|:-|
 | **Rodzaj męski (masc.)** | czytający
 | **Rodzaj żeński (fem.)** | czytająca
@@ -98,7 +98,7 @@ Tabla de conjugaciones para czytać
 | **Rodzaj męski (masc.)** | czytany
 | **Rodzaj żeński (fem.)** | czytana
 | **rodzaj nijaki (neut.)** | czytane
-|-| **Imiesłów przysłówkowy**
+| | **Imiesłów przysłówkowy**
 |-|:-|
 | **Współczesny** | czytając
 | **Uprzedni** | przeczytawszy
