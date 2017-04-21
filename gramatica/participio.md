@@ -1,5 +1,5 @@
 Imiesłów (participio)
-================================
+=====================
 
 Existen diferentes tipos de participio en polaco, pero básicamente podemos
 dividirlos en dos categorías: **przymiotnikowe** (adjetivado) y
