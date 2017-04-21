@@ -5,12 +5,12 @@ Existen diferentes tipos de participio en polaco, pero básicamente podemos
 dividirlos en dos categorías: **przymiotnikowe** (adjetivado) y
 **przysłówkowe** (adverbial).
 
-* Imiesłów przymiotnikowy (participio adjetivado):
-  * Czynny (activo)
-  * Bierny (pasivo)
-* Imiesłów przysłówkowy (participio adverbial):
-  * Współczesny (presente)
-  * Uprzedny (perfecto)
+* **Imiesłów przymiotnikowy** (participio adjetivado):
+  * **Czynny** (activo)
+  * **Bierny** (pasivo)
+* **Imiesłów przysłówkowy** (participio adverbial):
+  * **Współczesny** (presente)
+  * **Uprzedny** (perfecto)
 
 Suelen encontrarse en textos escritos. En la lengua hablada no suelen
 utilizarse, sino que se adoptan formas más sencillas.
