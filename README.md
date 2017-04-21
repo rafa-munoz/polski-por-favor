@@ -4,4 +4,5 @@ Polaco avanzado para hispanohablantes.
 
 ## Tabla de contenidos
 
-* [Declinaciones](declinaciones/index.md)
+* [Przypadki (declinaciones)](declinaciones/index.md)
+* [Imiesłów (participio)](gramatica/participio.md)
