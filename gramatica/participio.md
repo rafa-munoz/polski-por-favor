@@ -76,8 +76,6 @@ gerundio compuesto, y en inglés al "perfect participle" (zrobiwszy -
 Se utiliza para indicar que la acción de la oración de participio tuvo lugar
 antes de la acción de la oración principal.
 
-This *is*{:.underline} some `code`{:#id}{:.class}.
-
 * *Nie **znalazłszy** drogi, wróciłem do domu: sin haber encontrado el
   camino, volví a casa.*
 * * **Powróciwszy** do domu, zastałem otwarte drzwi.*
@@ -90,23 +88,17 @@ Tabla de conjugaciones para czytać
 ----------------------------------
 
 |---
-|-| Imiesłów przymiotnikowy czynny
+|:-| **Imiesłów przymiotnikowy czynny**
 |-|:-|
 | **Rodzaj męski (masc.)** | czytający
 | **Rodzaj żeński (fem.)** | czytająca
 | **rodzaj nijaki (neut.)** | czytające
-
-
-|---
-|-| Imiesłów przymiotnikowy bierny
+|-| **Imiesłów przymiotnikowy bierny**
 |-|:-|
 | **Rodzaj męski (masc.)** | czytany
 | **Rodzaj żeński (fem.)** | czytana
 | **rodzaj nijaki (neut.)** | czytane
-
-
-|---
-|-| Imiesłów przysłówkowy
+|-| **Imiesłów przysłówkowy**
 |-|:-|
 | **Współczesny** | czytając
 | **Uprzedni** | przeczytawszy
