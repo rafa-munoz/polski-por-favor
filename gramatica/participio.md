@@ -50,7 +50,7 @@ del sujeto al que se refiera. **pisać** (infinitivo) – **pisany**,
 Imiesłów przysłówkowy współczesny
 ---------------------------------
 
-Tiene la terminación -ąc y expresa un tiempo presente. Es lo equivalente a
+Tiene la terminación **-ąc** y expresa un tiempo presente. Es lo equivalente a
 nuestro presente continuo, o en inglés a los verbos que terminan en -ing
 (robiąc - "doing" o "while doing").
 
@@ -82,3 +82,23 @@ antes de la acción de la oración principal.
 * * **Wróciwszy** do domu zadzwonił do ojca: habiendo vuelto a casa, llamó
   al padre.*
 * * **Ubrawszy** się, Pilar wyszła z domu: [Having dressed, Pilar left home].*
+
+
+Tabla de conjugaciones para czytać
+----------------------------------
+
+|---
+|-| Imiesłów przymiotnikowy czynny
+|-|:-|
+| **Rodzaj męski (masc.)** | czytający
+| **Rodzaj żeński (fem.)** | czytająca
+| **rodzaj nijaki (neut.)** | czytające
+|-| Imiesłów przymiotnikowy bierny
+|-|:-|
+| **Rodzaj męski (masc.)** | czytany
+| **Rodzaj żeński (fem.)** | czytana
+| **rodzaj nijaki (neut.)** | czytane
+|-| Imiesłów przysłówkowy
+|-|:-|
+| **Współczesny** | czytając
+| **Uprzedni** | przeczytawszy
