@@ -39,3 +39,65 @@ Sólo los niños pequeños que nazcan en un entorno totalmente polaco son capace
 de declinar bien en casi todas las situaciones y sin cometer fallos. Para
 nosotros el camino es mucho más difícil, pues es obligatorio saberse
 perfectamente la gramática.
+
+
+No todo se declina
+==================
+
+Sí, alguna vez vamos a tener "suerte", pues no habrá que declinar la palabra,
+pero podemos decir que se trata de casos excepcionales.
+
+Muchos nombres no declinables **son los neutros que terminan en -i, -o ó -u**:
+
+* Capuccino: nie chcę capuccino.
+* Kakao: piję kakao.
+* Euro: płacę jedno euro.
+* Sushi
+* Graffiti
+* Menu
+* Kilo
+* Wideo
+
+**Nombres propios femeninos que no terminan en -a** tampoco se declinan:
+
+* Hillary: rozmawiamy o Hillary.
+
+Muchos nombres que en el pasado no eran declinables, **ahora sí lo son**, como
+por ejemplo: ksero, radio, metro, studio. Suele asociarse sobretodo a palabras
+traídas del extranjero.
+
+* Zostawiłam to na kserze: lo dejé en la fotocopiadora.
+* Często jeżdzę metrem: con frecuencia voy en metro.
+* Idziemy do kina!: ¡vamos al cine!
+* Nie mam radia: no tengo radio.
+
+**Algunos nombres geográficos** tampoco son declinables. Por ejemplo:
+
+* Monachium: Munich.
+* Monako
+* Buenos Aires
+* Oslo
+* Toronto
+
+**Pero otros sí lo son:**
+
+* Maroko: byłem w Maroku samochodem.
+
+**Los acrónimos terminados en vocal no son declinables**. Sin embargo, **si
+éstos terminan en un sonido consonante, entonces se declinan** como nombres
+masculinos singulares. Ejemplos:
+
+* PSA: pracuję w PSA.
+* UJ (Universidad de Jaén): uczę się na UJ-ocie.
+
+**Títulos y profesiones referidos a una persona femenina y que no terminan en
+-a no son declinables.**
+
+* Doktor: mam wizytę u doktor Kowalskiej: tengo una cita con la doctora
+  Kowalska.
+
+
+Fuentes
+=======
+
+* *Polish: A Comprehensive Grammar - de Iwona Sadowska*
