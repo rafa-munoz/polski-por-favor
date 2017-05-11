@@ -31,6 +31,19 @@ neutro).
 * *Nauczyciel pochwalił pięknie **czytającego** ucznia: el profesor alabó
   la bonita lectura del alumno.*
 * *Jasiu patrzył na **stojące** w wazonie kwiaty*
+* *Na zdjęciu widzę kilka osób **oblewających** się wodą na ulicy: en la foto
+  veo algunas personas echándose agua en la calle.*
+* *Osoby czytające książki mają większą wiedzę.*
+
+Podemos incluso encontrar el uso de declinaciones combinado con el
+participio. Ejemplos:
+
+* *Widzę kilka osób czytających: veo algunas personas leyendo.*
+  (Dopełniacz - Genitivo)
+* *Widzę osobę czytającą książkę: veo ninguna persona leyendo un libro.*
+  (Biernik - Acusativo)
+* *Nie widzę osoby czytającej książkę: no veo ninguna persona leyendo un
+  libro.* (Dopełniacz - Genitivo)
 
 
 Imiesłów przymiotnikowy bierny
@@ -64,7 +77,9 @@ nuestro presente continuo, o en inglés a los verbos que terminan en -ing
   TV while eating]*
 * *Manuel sprząta kuchnię **słuchając** muzyki: Manuel limpia la cocina
   escuchando música.*
-
+* *Mężczyzna siedzi na ławce paląc papierosa i patrząc na żonę, która stoi obok
+  niego i rozmawia przez telefon: el hombre está sentado en el banco fumando
+  y mirando a su mujer, la cual está al lado suya hablando por teléfono.*
 
 Imiesłów przysłówkowy uprzedni
 -------------------------------
@@ -78,10 +93,10 @@ antes de la acción de la oración principal.
 
 * *Nie **znalazłszy** drogi, wróciłem do domu: sin haber encontrado el
   camino, volví a casa.*
-* * **Powróciwszy** do domu, zastałem otwarte drzwi.*
-* * **Wróciwszy** do domu zadzwonił do ojca: habiendo vuelto a casa, llamó
+* ***Powróciwszy** do domu, zastałem otwarte drzwi.*
+* ***Wróciwszy** do domu zadzwonił do ojca: habiendo vuelto a casa, llamó
   al padre.*
-* * **Ubrawszy** się, Pilar wyszła z domu: [Having dressed, Pilar left home].*
+* ***Ubrawszy** się, Pilar wyszła z domu: [Having dressed, Pilar left home].*
 
 
 Tabla de conjugaciones para czytać
