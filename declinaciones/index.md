@@ -7,7 +7,7 @@ preposición o caso.
 En polaco hay 7 formas:
 
 * [Mianownik (Nominativo)](1-nominativo.md)
-* Dopełniacz (Genitivo)
+* [Dopełniacz (Genitivo)](2-genitivo-dopelniacz.md)
 * Celownik (Dativo)
 * Biernik (Acusativo)
 * Narzędnik (Instrumental)
