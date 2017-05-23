@@ -38,11 +38,11 @@ neutro).
 Podemos incluso encontrar el uso de declinaciones combinado con el
 participio. Ejemplos:
 
-* *Widzę kilka osób czytających: veo algunas personas leyendo.*
+* *Widzę kilka **osób czytających**: veo algunas personas leyendo.*
   (Dopełniacz - Genitivo)
-* *Widzę osobę czytającą książkę: veo ninguna persona leyendo un libro.*
+* *Widzę **osobę czytającą** książkę: veo ninguna persona leyendo un libro.*
   (Biernik - Acusativo)
-* *Nie widzę osoby czytającej książkę: no veo ninguna persona leyendo un
+* *Nie widzę **osoby czytającej** książkę: no veo ninguna persona leyendo un
   libro.* (Dopełniacz - Genitivo)
 
 
