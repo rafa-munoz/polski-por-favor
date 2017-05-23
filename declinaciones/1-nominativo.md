@@ -54,19 +54,8 @@ Más ejemplos
 * *Pies szczeka: un/el perro ladra.*
 
 
-Tabla de declinaciones
-----------------------
-
-|---
-|-| Liczba pojedyncza (singular) | Liczba mnoga (plural)
-|-|:-|:-:|-:
-| **Rodzaj męski (masc.)** | samochód (coche) | samochody (coches)
-| **Rodzaj żeński (fem.)** | córka (hija) | córki (hijas)
-| **rodzaj nijaki (neut.)** | dziecko (niño/-a) | dzieci
-
-
 Temas relacionados
 ------------------
 
 * Cómo diferenciar géneros y uso de adjetivos.
-* Uso de plurales.
+* [Liczba mnoga (plurales)](liczba_mnoga-plurales.md).

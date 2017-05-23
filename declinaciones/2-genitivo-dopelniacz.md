@@ -25,11 +25,11 @@ de]:
 * *beze **mnie**: sin mí (without me)*
 * *z **baru**: desde el bar (from the bar)*
 * *na ten list czekam od **miesiąca***
-* *dla herbaty dodaję troszeczkę **mięty***
+* *dla **herbaty** dodaję troszeczkę **mięty***
 * *bez **dodatkowych kosztów**: sin costes adicionales*
 * *niedaleko **szkoły**: near the school*
-* *obok kina: near the cinema*
-* *podczas wakacji: during holidays*
+* *obok **kina**: near the cinema*
+* *podczas **wakacji**: during holidays*
 * *kawa bez **cukru** [cukier]: café sin azúcar*
 * *jadę do **Poznania***
 
@@ -56,7 +56,7 @@ się [esperar que, confiar que], szukać [buscar], uczyć się [estudiar], używ
 
 * *Danka boje się **tirów**: Danka tiene miedo a los camiones*
 * *dlaczego uczę się **polskiego**?: ¿por qué aprendo polaco?*
-* *słucham radia: escucho la radio*
+* *słucham **radia**: escucho la radio*
 * *zapomniałem **paszportu**: olvidé el pasaporte*
 * *ona nienawidzi **fizyki**: she hates physics*
 * *uczniowie zapomnieli **zeszytów**: los estudiantes olvidaron sus cuadernos*
@@ -78,8 +78,8 @@ Con una cantidad especificada o no especificada, y después de "dużo":
 * *kilogram **soli***
 * *trochę **cukru***
 * *butelka **mleka***
-* *lampka wina: un vaso de vino*
-* *200 gramów sera żółtego*
+* *lampka **wina**: un vaso de vino*
+* *200 **gramów sera żółtego***
 * *w bibliotece jest dużo **ciekawych książek** [książki]: en la biblioteca hay
   muchos libros interesantes*
 * *Pilar dużo **piłki nożnej** [piłka nożna] ogląda: Pilar ve mucho el fútbol*
@@ -87,9 +87,12 @@ Con una cantidad especificada o no especificada, y después de "dużo":
 **Con "dwóch"** para dos elementos masculinos. Puede traducirse en español como
 "la pareja". Czasownik występuje wówczas w trzeciej osobie liczby pojedynczej.
 
-* *dwóch fryzjerów to fryzjer i fryzjer*
-* *dwóch fryzjerów rozmawia o fryzurach*
-* *dwóch fryzjerów rozmawiało o fryzurach*
+* *dwóch fryzjerów to fryzjer i fryzjer: la pareja de peluqueros se compone de
+  un peluquero y otro peluquero*
+* *dwóch fryzjerów rozmawia o fryzurach: la pareja de peluqueros habla sobre
+  peluquería*
+* *dwóch fryzjerów rozmawiało o fryzurach: la pareja de peluqueros hablaba
+  sobre peluquería*
 
 **Con "dwoje"** para un elemento femenino y otro masculino, o dos neutros.
 Puede traducirse en español como: "la pareja". Wymaga {exige} użycia * **dopełniacza. Czasownik występuje wówczas w trzeciej osobie liczby pojedynczej.
