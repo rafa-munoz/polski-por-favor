@@ -97,11 +97,11 @@ antes de la acción de la oración principal.
 * *Nie **znalazłszy** drogi, wróciłem do domu: sin haber encontrado el
   camino, volví a casa.*
 * *Nie znalazłem drogi, więc wróciłem do domu: como no encontré el camino,
-  volví a casa. (Este sería el equivalente más informal y natural)*
+  volví a casa. (Ésta sería la forma equivalente más natural)*
 * ***Powróciwszy** do domu, zastałem otwarte drzwi: habiendo vuelto a casa,
   encontré las puertas abiertas.*
 * *Po powrocie do domu, zastałem otwarte drzwi: al volver a casa, encontré
-  las puertas abiertas.*
+  las puertas abiertas. (Ésta sería la forma equivalente más natural)*
 * ***Wróciwszy** do domu zadzwonił do ojca: habiendo vuelto a casa, llamó
   al padre.*
 * ***Ubrawszy** się, Pilar wyszła z domu: [Having dressed, Pilar left home].*
