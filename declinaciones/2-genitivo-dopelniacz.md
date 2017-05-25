@@ -64,6 +64,13 @@ się [esperar que, confiar que], szukać [buscar], uczyć się [estudiar], używ
 * *potrzebuję **więcej czasu**: necesito más tiempo ("więcej" por ser adverbio
   nunca se declina)*
 
+**Después de un adverbio:**
+
+* *Powinno być więcej **ładowarek**: debería de haber más cargadores.*
+* *Tutaj powinny być **ładowarki**: debería de haber cargadores (aquí se utiliza
+  el nominativo)*
+
+
 Para expresar **nombres con cantidades que terminan en números**:
 
 * 0: se utiliza genitivo en forma plural.
