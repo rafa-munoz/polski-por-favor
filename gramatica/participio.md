@@ -88,7 +88,7 @@ Las posibles terminaciones son **-łszy** y **-wszy**. En español equivale al
 gerundio compuesto, y en inglés al "perfect participle" (zrobiwszy -
 "having done"). Debe tenerse en cuenta que esta es una forma que a muchos
 polacos les parecerá **poco común como lengua informal** de calle o
-televisión, pues se utiliza mayormente en libros. En lengua coloquial puede
+televisión, pues se utiliza mayormente en libros. En la lengua coloquial puede
 sonar antiguo y poco natural.
 
 Se utiliza para indicar que la acción de la oración de participio tuvo lugar
@@ -98,7 +98,8 @@ antes de la acción de la oración principal.
   camino, volví a casa.*
 * *Nie znalazłem drogi, więc wróciłem do domu: como no encontré el camino,
   volví a casa. (Este sería el equivalente más informal y natural)*
-* ***Powróciwszy** do domu, zastałem otwarte drzwi.*
+* ***Powróciwszy** do domu, zastałem otwarte drzwi: habiendo vuelto a casa,
+  encontré las puertas abiertas.*
 * *Po powrocie do domu, zastałem otwarte drzwi: al volver a casa, encontré
   las puertas abiertas.*
 * ***Wróciwszy** do domu zadzwonił do ojca: habiendo vuelto a casa, llamó
