@@ -58,4 +58,4 @@ Temas relacionados
 ------------------
 
 * Cómo diferenciar géneros y uso de adjetivos.
-* [Liczba mnoga (plurales)](/gramatica/liczba_mnoga-plurales.md).
+* [Liczba mnoga (plurales)](../gramatica/liczba_mnoga-plurales.md).
