@@ -64,13 +64,6 @@ się [esperar que, confiar que], szukać [buscar], uczyć się [estudiar], używ
 * *potrzebuję **więcej czasu**: necesito más tiempo ("więcej" por ser adverbio
   nunca se declina)*
 
-**Después de un adverbio:**
-
-* *Powinno być więcej **ładowarek**: debería de haber más cargadores.*
-* *Powinny być **ładowarki**: debería de haber cargadores (aquí se utiliza
-  el nominativo)*
-* *są dużo **słów, których** nie znam: son muchas palabras que no conozo*
-
 Para expresar **nombres con cantidades que terminan en números**:
 
 * 0: se utiliza genitivo en forma plural.
@@ -79,7 +72,8 @@ Para expresar **nombres con cantidades que terminan en números**:
 5-21, 25-31, 35-41, 45-51: se utiliza genitivo en forma plural.
 22-24, 32-34, 42-44…: se utiliza nominativo singular.
 
-Con una cantidad especificada o no especificada, y después de "dużo":
+Con una **cantidad especificada o no especificada, y después de adverbios que
+expresan cantidad** (dużo, więcej, kilka, wiele, wielu...):
 
 * *kilo **kiełbasy***
 * *kilogram **soli***
@@ -90,6 +84,12 @@ Con una cantidad especificada o no especificada, y después de "dużo":
 * *w bibliotece jest dużo **ciekawych książek** [książki]: en la biblioteca hay
   muchos libros interesantes*
 * *Pilar dużo **piłki nożnej** [piłka nożna] ogląda: Pilar ve mucho el fútbol*
+* *Powinno być więcej **ładowarek**: debería de haber más cargadores.*
+* *Powinny być ładowarki: debería de haber cargadores (aquí se utiliza
+  el nominativo)*
+* *są dużo **słów, których** nie znam: son muchas palabras que no conozo*
+* *wielu **nastolatków***: muchos adolescentes. (Grupo de chicos sólo)*
+* *wiele **nastolatków**: muchos adolescentes. (Grupo mezclado de chicos y chicas)*
 
 **Con "dwóch"** para dos elementos masculinos. Puede traducirse en español como
 "la pareja". Czasownik występuje wówczas w trzeciej osobie liczby pojedynczej.
