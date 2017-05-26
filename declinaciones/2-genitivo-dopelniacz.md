@@ -67,9 +67,9 @@ się [esperar que, confiar que], szukać [buscar], uczyć się [estudiar], używ
 **Después de un adverbio:**
 
 * *Powinno być więcej **ładowarek**: debería de haber más cargadores.*
-* *Tutaj powinny być **ładowarki**: debería de haber cargadores (aquí se utiliza
+* *Powinny być **ładowarki**: debería de haber cargadores (aquí se utiliza
   el nominativo)*
-
+* *są dużo **słów, których** nie znam: son muchas palabras que no conozo*
 
 Para expresar **nombres con cantidades que terminan en números**:
 
@@ -188,7 +188,6 @@ Más ejemplos:
 * *piątka moich znajomych idzie do kina: five of my friends go to the cinema (ver "idzie" que es singular porque "piątka" también se considera)*
 * *kilka ludzie wystraszyli się: kilka ludzi wystraszyło się (con "kilka", se utiliza dopełniacz y singular neutro)*
 * *kilka dziewczyny mają: kilka dziewczyn ma (con "kilka", se utiliza dopełniacz y singular neutro)*
-* *dużo słowa, że nie znam: dużo słów, których nie znam [dopełniacz]*
 
 [comment]: <> (http://www.skwierzyna.net/polishgrammar.pdf)
 [comment]: <> (https://sayit-inpolish.tumblr.com/post/112782901288/how-complicated-polish-can-be)
