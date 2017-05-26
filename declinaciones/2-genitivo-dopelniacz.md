@@ -6,8 +6,8 @@ que más tiempo te llevará practicar.
 
 Esta declinación responde a ciertas preguntas:
 
-* TODO
-* TODO
+* kogo?
+* czego?
 
 Utilizada para **indicar posesión**. En español en la mayoría de casos se
 utilizaría la preposición "de":
