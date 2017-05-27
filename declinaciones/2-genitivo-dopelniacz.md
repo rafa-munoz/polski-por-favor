@@ -60,20 +60,19 @@ się [esperar que, confiar que], szukać [buscar], uczyć się [estudiar], używ
 * *zapomniałem **paszportu**: olvidé el pasaporte*
 * *ona nienawidzi **fizyki**: she hates physics*
 * *uczniowie zapomnieli **zeszytów**: los estudiantes olvidaron sus cuadernos*
-* *jak uczyć się języków obcych*
+* *jak uczyć się **języków obcych***
 * *potrzebuję **więcej czasu**: necesito más tiempo ("więcej" por ser adverbio
   nunca se declina)*
 
 Para expresar **nombres con cantidades que terminan en números**:
 
-* 0: se utiliza genitivo en forma plural.
+* **0**: se utiliza genitivo en forma plural.
 * 1: se utiliza nominativo singular.
-2,3,4: se utiliza nominativo plural.
-5-21, 25-31, 35-41, 45-51: se utiliza genitivo en forma plural.
-22-24, 32-34, 42-44…: se utiliza nominativo singular.
+* 2,3,4: se utiliza nominativo plural.
+* **5-21, 25-31, 35-41, 45-51:** se utiliza genitivo en forma plural.
+* 22-24, 32-34, 42-44…: se utiliza nominativo singular.
 
-Con una **cantidad especificada o no especificada, y después de adverbios que
-expresan cantidad** (dużo, więcej, kilka, wiele, wielu...):
+Con una **cantidad especificada o no especificada**:
 
 * *kilo **kiełbasy***
 * *kilogram **soli***
@@ -81,6 +80,10 @@ expresan cantidad** (dużo, więcej, kilka, wiele, wielu...):
 * *butelka **mleka***
 * *lampka **wina**: un vaso de vino*
 * *200 **gramów sera żółtego***
+
+**Después de adverbios que expresan cantidad** (dużo, więcej, kilka,
+wiele, wielu...):
+
 * *w bibliotece jest dużo **ciekawych książek** [książki]: en la biblioteca hay
   muchos libros interesantes*
 * *Pilar dużo **piłki nożnej** [piłka nożna] ogląda: Pilar ve mucho el fútbol*
@@ -89,7 +92,12 @@ expresan cantidad** (dużo, więcej, kilka, wiele, wielu...):
   el nominativo)*
 * *są dużo **słów, których** nie znam: son muchas palabras que no conozo*
 * *wielu **nastolatków***: muchos adolescentes. (Grupo de chicos sólo)*
-* *wiele **nastolatków**: muchos adolescentes. (Grupo mezclado de chicos y chicas)*
+* *wiele **nastolatków**: muchos adolescentes. (Grupo mezclado de chicos y
+  chicas)*
+* *kilka **ludzi** wystraszyło się: alguna gente se asustó. (Con "kilka", el
+  verbo se conjuga en singular neutro)*
+* *kilka dziewczyn ma podobne problemy do Ciebie: algunas chicas tienen
+  problemas parecidos al tuyo*
 
 **Con "dwóch"** para dos elementos masculinos. Puede traducirse en español como
 "la pareja". Czasownik występuje wówczas w trzeciej osobie liczby pojedynczej.
@@ -102,17 +110,23 @@ expresan cantidad** (dużo, więcej, kilka, wiele, wielu...):
   sobre peluquería*
 
 **Con "dwoje"** para un elemento femenino y otro masculino, o dos neutros.
-Puede traducirse en español como: "la pareja". Wymaga {exige} użycia * **dopełniacza. Czasownik występuje wówczas w trzeciej osobie liczby pojedynczej.
+Puede traducirse en español como: "la pareja". Exige el uso de la tercera
+persona del singular.
 
 * *dwoje fryzjerów to fryzjer i fryzjerka*
 * *dwoje fryzjerów rozmawia o fryzurach*
 * *dwoje fryzjerów rozmawiało o fryzurach*
 
-In many sentences describing the specific time:
+En expresiones **donde se describe un tiempo específico**:
 
-* *pewnego wieczoru: one evening*
-* *każdego dnia: every day*
-
+* *pewnego wieczoru: una noche (one evening)*
+* *każdego dnia: cada día*
+* *ubiegłego roku: el año pasado*
+* *19.10.2015: dziewiętnastego października dwa tysiące piętnastego roku*
+* *25.11.1969: dwudziestego piątego listopada tysiąc dziewięćset
+  sześćdziesiątego dziewiątego roku*
+* *26.06.1828: dwudziestego szóstego czerwca tysiąc osiemset dwudziestego
+  ósmego roku*
 
 Formación de sustantivos:
 
@@ -186,8 +200,6 @@ Más ejemplos:
 * *znam dużo miłych studentek (-Ø)*
 * *proszę pięć zimnych piw (-Ø)*
 * *piątka moich znajomych idzie do kina: five of my friends go to the cinema (ver "idzie" que es singular porque "piątka" también se considera)*
-* *kilka ludzie wystraszyli się: kilka ludzi wystraszyło się (con "kilka", se utiliza dopełniacz y singular neutro)*
-* *kilka dziewczyny mają: kilka dziewczyn ma (con "kilka", se utiliza dopełniacz y singular neutro)*
 
 [comment]: <> (http://www.skwierzyna.net/polishgrammar.pdf)
 [comment]: <> (https://sayit-inpolish.tumblr.com/post/112782901288/how-complicated-polish-can-be)
