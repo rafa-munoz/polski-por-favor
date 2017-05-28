@@ -52,7 +52,7 @@ expresión "nie ma" [no hay]; "nie było" [no había]; "nie będzie" [no habrá]
 się [tomarse un trago de], nienawidzić [odiar], pilnować [vigilar/cuidar de],
 potrzebować [necesitar], próbować [probar], słuchać [escuchar a], spodziewać
 się [esperar que, confiar que], szukać [buscar], uczyć się [estudiar], używać
-[usar], zapominać [olvidarse].
+[usar], zapominać [olvidarse], życzyć [desear {to wish}].
 
 * *Danka boje się **tirów**: Danka tiene miedo a los camiones*
 * *dlaczego uczę się **polskiego**?: ¿por qué aprendo polaco?*
@@ -128,7 +128,8 @@ En expresiones **donde se describe un tiempo específico**:
 * *26.06.1828: dwudziestego szóstego czerwca tysiąc osiemset dwudziestego
   ósmego roku*
 
-Formación de sustantivos:
+Formación de sustantivos
+------------------------
 
 Liczba pojedyncza (singular)
 Masc. animate
@@ -165,27 +166,31 @@ rzeczownik (subst.)
 -Ø (poniendo la raíz de la palabra)
 -Ø (poniendo la raíz de la palabra)
 
-Más ejemplos:
-* *sok >>> soku*
-* *samochód {coche} >>> samochodu*
-* *samochody {coches} >>> samochodów*
-* *kościół >>> kościoła*
-* *ulica {calle} >>> ulicy*
-* *Polska >>> Polski*
-* *Gosia >>> Gosii*
-* *ziemniaki >>> ziemniaków: potatoes {patatas}*
-* *święta >>> świąt: christmas {navidad}*
-* *wesołych świąt: merry christmas {feliz navidad}*
-* *ulice {calles} >>> ulic **
-* *Niemcy >>> Niemiec (because the country Germany is in plural in Polish)*
+Más ejemplos
+------------
+
+* *sok >> soku*
+* *samochód >> samochodu*
+* *samochody >> samochodów*
+* *kościół >> kościoła*
+* *ulica >> ulicy*
+* *Polska >> Polski*
+* *Gosia >> Gosii*
+* *ziemniaki >> ziemniaków: potatoes {patatas}*
+* *święta >> świąt: christmas {navidad}*
+  * *(życzę Ci) wesołych świąt: (te deseo una) feliz navidad. (Si se
+    omite el "te deseo", debe también declinarse lo que viene después)*
+* *ulice {calles} >> ulic*
+* *Niemcy >> Niemiec (porque el nombre del país Alemania es en polaco
+  en plural)*
 * *jak nazywa się miasto Twoich rodziców: how is it called the city of your family?*
 * *dom mojej siostry: my sister’s house [fem.]*
 * *dom mojego ojca: my father’s house [masc. an.]*
 * *śpię u mojej znajomej / mojego znajomego / moich znajomych: duermo en casa de mi amiga / mi amigo / mis amigos*
-* *nie jestem fanem hiszpańskij muzyky*
-* *kot Piotra pije mleko*
-* *jak Niemcy widzą Polaków?*
-* *100 najbogatszych Polaków*
+* *nie jestem fanem **hiszpańskij muzyky***
+* *kot **Piotra** pije mleko*
+* *jak Niemcy widzą **Polaków**?*
+* *100 **najbogatszych Polaków***
 * *może możesz iść do normalnego sklepu*
 * *u moich rodziców: {en casa de mis padres}*
 * *mam urwanie głowy, dużo nowych słów do napisania*
@@ -193,13 +198,13 @@ Más ejemplos:
 * *pewnego słonecznego dnia: one sunny day*
 * *mojej najlepszej koleżanki nie było w domu: my best friend was not at home*
 * *wszyscy zazdrościli mi mojej eleganckiej torebki z Paryża: everyone was jealous of my elegant handbag from Paris*
-* *mało jest dobrych ludzi na świecie: there are a few good people all around the world*
-* *ona nie życzy sobie drogich prezentów na urodziny: she expects no expensive gifts for her birthday*
-* *szukam tanich mieszkań do wynajęcia: I’m looking for an affordable flats to rent*
-* *Oranienburg nic specjalnego*
-* *znam dużo miłych studentek (-Ø)*
-* *proszę pięć zimnych piw (-Ø)*
-* *piątka moich znajomych idzie do kina: five of my friends go to the cinema (ver "idzie" que es singular porque "piątka" también se considera)*
+* *mało jest **dobrych ludzi** na świecie: there are a few good people all around the world*
+* *ona nie życzy sobie **drogich prezentów** na urodziny: she expects no expensive gifts for her birthday*
+* *szukam **tanich mieszkań** do wynajęcia: I’m looking for an affordable flats to rent*
+* *Oranienburg nic **specjalnego***
+* *znam dużo **miłych studentek** (-Ø)*
+* *proszę pięć **zimnych piw** (-Ø)*
+* *piątka **moich znajomych** idzie do kina: five of my friends go to the cinema (ver "idzie" que es singular porque "piątka" también se considera)*
 
 [comment]: <> (http://www.skwierzyna.net/polishgrammar.pdf)
 [comment]: <> (https://sayit-inpolish.tumblr.com/post/112782901288/how-complicated-polish-can-be)
