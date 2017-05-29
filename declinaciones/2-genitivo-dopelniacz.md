@@ -52,7 +52,9 @@ expresión "nie ma" [no hay]; "nie było" [no había]; "nie będzie" [no habrá]
 się [tomarse un trago de], nienawidzić [odiar], pilnować [vigilar/cuidar de],
 potrzebować [necesitar], próbować [probar], słuchać [escuchar a], spodziewać
 się [esperar que, confiar que], szukać [buscar], uczyć się [estudiar], używać
-[usar], zapominać [olvidarse], życzyć [desear {to wish}].
+[usar], zapominać [olvidarse], życzyć [desear {to wish}], brakować [necesitar],
+żałować [lamentar], dotykać, odmawiać, próbować, unikać, wstydzić się,
+wymagać, zabraniać, zazdrościć.
 
 * *Danka boje się **tirów**: Danka tiene miedo a los camiones*
 * *dlaczego uczę się **polskiego**?: ¿por qué aprendo polaco?*
@@ -206,5 +208,6 @@ Más ejemplos
 * *proszę pięć **zimnych piw** (-Ø)*
 * *piątka **moich znajomych** idzie do kina: five of my friends go to the cinema (ver "idzie" que es singular porque "piątka" también se considera)*
 
+[comment]: <> (http://www.polskinawynos.com/?page_id=329)
 [comment]: <> (http://www.skwierzyna.net/polishgrammar.pdf)
 [comment]: <> (https://sayit-inpolish.tumblr.com/post/112782901288/how-complicated-polish-can-be)
