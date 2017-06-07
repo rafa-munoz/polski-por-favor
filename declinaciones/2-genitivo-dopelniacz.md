@@ -133,40 +133,17 @@ En expresiones **donde se describe un tiempo específico**:
 Formación de sustantivos
 ------------------------
 
-Liczba pojedyncza (singular)
-Masc. animate
-Masc. inanim.
-Fem.
-Neut.
-przymiotnik (adj.)
--ego
--ego
--ej
--ego
-rzeczownik (subst.)
--a
--a
--u
--y
--i (si acaba en k o g)
--a
+|---
+| | **Liczba pojedyncza (singular)**
+|-| **Masc. animado** | **Masc. inanim.** | Fem. | Neut.
+| **przymiotnik (adj.)** | -ego | -ego | -ej | -ego
+| **rzeczownik (subst.)** | -a | -a -u | -y -i (si acaba en k o g) | -a
 
-
-
-
-Liczba mnoga (plural) *
-Masculine
-Fem.
-Neut.
-przymiotnik (adj.)
--ych
--ich (si acaba en k o g)
-rzeczownik (subst.)
--ów
--y (si acaba en sz, cz, dz, dż, ż, rz + c)
--i (si acaba en ś, ć, ź, dź, ń + l, j)
--Ø (poniendo la raíz de la palabra)
--Ø (poniendo la raíz de la palabra)
+|---
+| | **Liczba mnoga (plural)**
+|-| **Masculino** | Femenino | Neutro
+| **przymiotnik (adj.)** | -ych -ich (si acaba en k o g)
+| **rzeczownik (subst.)** | -ów -y (si acaba en sz, cz, dz, dż, ż, rz + c) | -i (si acaba en ś, ć, ź, dź, ń + l, j) | -Ø (poniendo la raíz de la palabra) | -Ø (poniendo la raíz de la palabra)
 
 Más ejemplos
 ------------
