@@ -133,17 +133,59 @@ En expresiones **donde se describe un tiempo específico**:
 Formación de sustantivos
 ------------------------
 
-|---
-| | **Liczba pojedyncza (singular)**
-|-| **Masc. animado** | **Masc. inanim.** | Fem. | Neut.
-| **przymiotnik (adj.)** | -ego | -ego | -ej | -ego
-| **rzeczownik (subst.)** | -a | -a -u | -y -i (si acaba en k o g) | -a
+<table>
+  <thead>
+    <tr><th colspan="5">Liczba pojedyncza (singular)</th></tr>
+    <tr>
+      <td></td>
+      <td>Masc. animado</td>
+      <td>Masc. inanim.</td>
+      <td>Fem.</td>
+      <td>Neut.</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>przymiotnik (adj.)</th>
+      <td>-ego</td>
+      <td>-ego</td>
+      <td>-ej</td>
+      <td>-ego</td>
+    </tr>
+    <tr>
+      <th>rzeczownik (subst.)</th>
+      <td>-a</td>
+      <td>-a -u</td>
+      <td>-y<br />-i (si acaba en k ó g)</td>
+      <td>-a</td>
+    </tr>
+  </tbody>
+</table>
 
-|---
-| | **Liczba mnoga (plural)**
-|-| **Masculino** | Femenino | Neutro
-| **przymiotnik (adj.)** | -ych -ich (si acaba en k o g)
-| **rzeczownik (subst.)** | -ów -y (si acaba en sz, cz, dz, dż, ż, rz + c) | -i (si acaba en ś, ć, ź, dź, ń + l, j) | -Ø (poniendo la raíz de la palabra) | -Ø (poniendo la raíz de la palabra)
+<table>
+  <thead>
+    <tr><th colspan="4">Liczba mnoga (plural)</th></tr>
+    <tr>
+      <td></td>
+      <td>Masculino</td>
+      <td>Femenino</td>
+      <td>Neutro</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>przymiotnik (adj.)</th>
+      <td colspan="3">-ych<br />-ich (si acaba en k o g)</td>
+    </tr>
+    <tr>
+      <th>rzeczownik (subst.)</th>
+      <td>-ów<br />-y (si acaba en sz, cz, dz, dż, ż, rz + c)<br />-i (si acaba en ś, ć, ź, dź, ń + l, j)</td>
+      <td>-Ø (poniendo la raíz de la palabra)</td>
+      <td>-Ø (poniendo la raíz de la palabra)</td>
+    </tr>
+  </tbody>
+</table>
+
 
 Más ejemplos
 ------------
