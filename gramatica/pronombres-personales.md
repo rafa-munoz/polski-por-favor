@@ -2,18 +2,9 @@ Zaimki osobowe (pronombres personales)
 ======================================
 
 <table>
-  <thead>
-    <tr>
-      <th>Mianownik (nominativo)</th>
-      <th>Dopełniacz (genitivo)</th>
-      <th>Celownik (dativo)</th>
-      <th>Biernik (acusativo)</th>
-      <th>Narzędnik (instrumental)</th>
-      <th>Miejscownik (locativo)</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
+      <th>Mianownik (nominativo)</th>
       <td>ja</td>
       <td>ty</td>
       <td>on</td>
@@ -26,6 +17,7 @@ Zaimki osobowe (pronombres personales)
     </tr>
 
     <tr>
+      <th>Dopełniacz (genitivo)</th>
       <td>mnie</td>
       <td>ciebie/cię</td>
       <td>jego/go/niego</td>
@@ -38,6 +30,7 @@ Zaimki osobowe (pronombres personales)
     </tr>
 
     <tr>
+      <th>Celownik (dativo)</th>
       <td>mnie/mi</td>
       <td>tobie/ci</td>
       <td>jemu/mu/niemu</td>
@@ -50,6 +43,7 @@ Zaimki osobowe (pronombres personales)
     </tr>
 
     <tr>
+      <th>Biernik (acusativo)</th>
       <td>mnie/mię</td>
       <td>ciebie/cię</td>
       <td>jego/go/niego</td>
@@ -62,6 +56,7 @@ Zaimki osobowe (pronombres personales)
     </tr>
 
     <tr>
+      <th>Narzędnik (instrumental)</th>
       <td>mną</td>
       <td>tobą</td>
       <td>nim</td>
@@ -74,6 +69,7 @@ Zaimki osobowe (pronombres personales)
     </tr>
 
     <tr>
+      <th>Miejscownik (locativo)</th>
       <td>mnie</td>
       <td>tobie</td>
       <td>nim</td>
