@@ -22,7 +22,7 @@ Zaimki osobowe (pronombres personales)
       <td>ciebie/cię</td>
       <td>jego/go/niego</td>
       <td>jej</td>
-      <td>jego/go</td>
+      <td>jego/go/niego</td>
       <td>nas</td>
       <td>was</td>
       <td colspan=2>ich/nich</td>
