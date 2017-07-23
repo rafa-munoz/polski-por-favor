@@ -5,4 +5,5 @@ Polaco avanzado para hispanohablantes.
 ## Tabla de contenidos
 
 * [Przypadki (declinaciones)](declinaciones/index.md)
-* [Imiesłów (participio)](gramatica/participio.md)
+* [Imiesłów (participio)](gramatica/imieslow-participio.md)
+* [Zaimki osobowe (pronombres personales)](gramatica/zaimki-osobowe-pronombres-personales.md)
