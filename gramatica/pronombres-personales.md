@@ -39,7 +39,7 @@ Zaimki osobowe (pronombres personales)
       <td>nam</td>
       <td>wam</td>
       <td>im</td>
-      <td></td>
+      <td>im</td>
     </tr>
 
     <tr>
@@ -65,7 +65,7 @@ Zaimki osobowe (pronombres personales)
       <td>nami</td>
       <td>wami</td>
       <td>nimi</td>
-      <td></td>
+      <td>nimi</td>
     </tr>
 
     <tr>
@@ -78,7 +78,7 @@ Zaimki osobowe (pronombres personales)
       <td>nas</td>
       <td>was</td>
       <td>nich</td>
-      <td></td>
+      <td>nich</td>
     </tr>
   </tbody>
 </table>
