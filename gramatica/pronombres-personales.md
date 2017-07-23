@@ -25,8 +25,7 @@ Zaimki osobowe (pronombres personales)
       <td>jego/go</td>
       <td>nas</td>
       <td>was</td>
-      <td>ich/nich</td>
-      <td>ich</td>
+      <td colspan=2>ich/nich</td>
     </tr>
 
     <tr>
@@ -38,8 +37,7 @@ Zaimki osobowe (pronombres personales)
       <td>jemu/mu/niemu</td>
       <td>nam</td>
       <td>wam</td>
-      <td>im</td>
-      <td>im</td>
+      <td colspan=2>im</td>
     </tr>
 
     <tr>
@@ -64,8 +62,7 @@ Zaimki osobowe (pronombres personales)
       <td>nim</td>
       <td>nami</td>
       <td>wami</td>
-      <td>nimi</td>
-      <td>nimi</td>
+      <td colspan=2>nimi</td>
     </tr>
 
     <tr>
@@ -77,8 +74,7 @@ Zaimki osobowe (pronombres personales)
       <td>nim</td>
       <td>nas</td>
       <td>was</td>
-      <td>nich</td>
-      <td>nich</td>
+      <td colspan=2>nich</td>
     </tr>
   </tbody>
 </table>
