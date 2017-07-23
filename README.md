@@ -6,4 +6,4 @@ Polaco avanzado para hispanohablantes.
 
 * [Przypadki (declinaciones)](declinaciones/index.md)
 * [Imiesłów (participio)](gramatica/imieslow-participio.md)
-* [Zaimki osobowe (pronombres personales)](gramatica/zaimki-osobowe-pronombres-personales.md)
+* [Zaimki osobowe (pronombres personales)](gramatica/zaimki_osobowe-pronombres_personales.md)
