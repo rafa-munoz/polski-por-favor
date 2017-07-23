@@ -116,4 +116,6 @@ Przykłady (ejemplos)
 * musimy mu kupić coś ciekawego
 * dla niej: para ella (for her).
 * dla niego: para él (for him).
-* zdechł im pies: their dog died [dative]
+* zdechł im pies: su (de ellos) perro murió.
+* ktoś nie chciał jej tam i się postarali żeby ją zwolnić: alguien no la
+  quería allí y han conseguido despedirla.
