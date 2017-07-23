@@ -111,3 +111,17 @@ Jego, jej, ich
 “jego”, “jej” ni “ich” cambian independientemente de cuál sea el género o el
 número de la palabra modificada. Para objectos en plural ambos determinantes
 posesivos en primera o segunda persona y el adjetivo toman el sufijo "-e".
+
+* jego kolorowe koszule są świetne: sus camisas coloridas son geniales.
+
+Przykłady (ejemplos)
+====================
+
+* jej ciemne spodnie pasują do wszystkiego: her dark pants go with everything
+* weź jego ciepłe skarpety: take his warm socks
+* gdzie są ich kolorowe kostiumy?: where are their colorful suits?
+* podoba mi się nasze nowe sandały/buty/palto
+* musimy mu kupić coś ciekawego
+* dla niej: para ella (for her).
+* dla niego: para él (for him).
+* zdechł im pies: their dog died [dative]
