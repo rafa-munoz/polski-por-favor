@@ -20,7 +20,7 @@ utilizaría la preposición "de":
 **Con preposiciones** como: "niedaleko" [cerca], "do" [a]; "bez" [sin];
 "dla" [para]; "z" [de (from)]; "od" [desde]; "u" [en casa de alguien],
 "koło/obok" [cerca de, junto a, al lado], podczas [durante], wzdłuż [a lo largo
-de]:
+de], po [después de]:
 
 * *beze **mnie**: sin mí (without me)*
 * *z **baru**: desde el bar (from the bar)*
@@ -32,6 +32,7 @@ de]:
 * *podczas **wakacji**: during holidays*
 * *kawa bez **cukru** [cukier]: café sin azúcar*
 * *jadę do **Poznania***
+* *po **pięcu latach**: después de cinco años*
 
 **En oraciones transitivas negativas.** Por ejemplo después de: nie lubię, nie
 mam, nie znam; nie oglądam [no veo], nie piję.
