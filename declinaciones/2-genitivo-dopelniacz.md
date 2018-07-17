@@ -198,7 +198,7 @@ Más ejemplos
 * *kościół >> kościoła*
 * *ulica >> ulicy*
 * *Polska >> Polski*
-* *Gosia >> Gosii*
+* *Gosia >> Gosi*
 * *ziemniaki >> ziemniaków: potatoes {patatas}*
 * *święta >> świąt: christmas {navidad}*
   * *(życzę Ci) wesołych świąt: (te deseo una) feliz navidad. (Si se
