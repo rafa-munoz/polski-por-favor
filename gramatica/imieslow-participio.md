@@ -70,6 +70,7 @@ nuestro presente continuo, o en inglés a los verbos que terminan en -ing
 
 * *Co widzą psy **oglądając** telewizję?: ¿qué ven los perros viendo la
   televisión? [What dogs see while watching TV?]*
+* O czym należy pamiętać, **idąc** do kogoś w gości w Polsce?: what should we remember about when visiting somebody in Poland?*
 * ***Idąc** do sklepu spotkałem kolegę: yendo a la tienda me encontré con un
   compañero. [Going to the shop I met a colleague]*
 * ***Siedząc** na wykładzie, myślałem, że zasnę: sentado en la conferencia
