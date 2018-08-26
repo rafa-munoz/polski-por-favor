@@ -30,6 +30,7 @@ neutro).
 
 * *Nauczyciel pochwalił pięknie **czytającego** ucznia: el profesor alabó
   la bonita lectura del alumno.*
+* *Cześć wszystkim! Jestem Hiszpanem **uczącym** się polskiego*
 * *Jasiu patrzył na **stojące** w wazonie kwiaty*
 * *Na zdjęciu widzę kilka osób **oblewających** się wodą na ulicy: en la foto
   veo algunas personas echándose agua en la calle.*
