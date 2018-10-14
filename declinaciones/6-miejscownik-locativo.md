@@ -21,9 +21,11 @@ Aparece después de determinadas preposiciones:
 * z: con.
 * pred: delante de.
 
-Otros usos:
-* Expresión de tiempos en los que algo ha sucedido.
-* Descripción del medio de transporte en el que se ha viajado.
+Expresión de tiempos en los que algo ha sucedido.
+* *niestety wtedy końce pracę wieczorem*
+* *następnym razem jedziemy razem*
+
+Descripción del medio de transporte en el que se ha viajado.
 
 Sustantivo + Adjetivo femenino. Sustituir "-a" por "-ą" (Ver Anotaciones [1]):
 * *podróże z moją siostrą: viajes con mi hermana.*
@@ -72,6 +74,24 @@ omitiendo la “i” h recibiendo la letra de antes un acento.
 * *ludzie >>> ludźmi*
 * *bracia >>> braćmi*
 
+Más ejemplos:
+* *mam prezent: (EXCEPCIÓN: es masculino, ¡pero no se declina!)*
+* *w domu jeszcze pachnie ciastami*
+* *przed obiadem: antes del almuerzo.*
+* *z wieloma osobami: con mucha gente.* (EXCEPCIÓN: el -oma se
+  lo sacan de la manga).
+* *brak wiadomości jest dobrą wiadomością [wiadomość (fem.)]: si no hay
+  noticias, es buena noticia.*
+* *szukam mieszkanie z dwoma balkonami: I’m looking for an apartment with two
+  balconies {estoy buscando un apartamento con dos balcones}*
+* *z dwoma małymi walizkami*
+* *z kim idziesz do kina?: ¿con quién vas al cine?.*
+* *ze ścierką: con el trapo* (Ver Anotaciones [3])
+* *ja interesuje się sportem a ona muzyką: I’m interested in sports and
+  she’s interested in music*
+* *chciałbym w przyszłości zostać lekarzem: I want to become a doctor in the
+  future*
+
 Anotaciones [1]
 ---------------
 
@@ -96,6 +116,19 @@ Este tipo de cambios son así de "random", y hay que aprendérselos de memoria.
 Anotaciones [3]
 ---------------
 
-Para algunas palabras con dos consonantes, la “z” pasa a ser “ze” para hacer la pronunciación más fácil. Cuidado que “z” puede significar “from” {de})
-Hay casos que no se declinan. Por ejemplo cuando se traduce algo como “hay” o “está”, es una descripción de alguien o algo y se dice qué hora es
+Para algunas palabras con dos consonantes, la “z” pasa a ser “ze” para hacer la
+pronunciación más fácil. Cuidado que “z” puede significar “from” {de}).
+
+Hay casos que no se declinan. Por ejemplo cuando se traduce algo como “hay” o
+“está”, es una descripción de alguien o algo y se dice qué hora es. Ejemplos:
+
+* *gdzie jest hotel X?*
+* *jutro jest sobota*
+* *za granicą jest dobra pogoda*
+* *natura była piękna: la naturaleza era bonita.*
+* *była stara moda: era moda antigua.*
+* *wszyscy faceci są fajni*
+* *jest godzina ósma (se utiliza aquí el nominativo femenino, por que se
+  refiere a “godzina”).*
+* *czy jest lekarz?: ¿está el doctor ahí? / ¿hay doctor?*
 
