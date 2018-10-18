@@ -1,12 +1,12 @@
-Miejscownik (Locativo)
-======================
+Narzędnik (Instrumental)
+========================
 
 Junto a dopełniacz (genitivo), es una de las declinaciones más comunes que
 existen.
 
 Esta declinación responde a ciertas preguntas:
-* **o kim?: ¿sobre quién?**
-* **o czym?: ¿sobre qué?**
+* **(z) kim?: ¿con quién?**
+* **(z) czym?: ¿con qué?**
 
 Aparece después de determinados verbos:
 * być: siempre que éste se utilice para expresar una profesión, relación o
