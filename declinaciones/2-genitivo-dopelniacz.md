@@ -66,6 +66,8 @@ wymagać, zabraniać, zazdrościć.
 * *jak uczyć się **języków obcych***
 * *potrzebuję **więcej czasu**: necesito más tiempo ("więcej" por ser adverbio
   nunca se declina)*
+* *zapytałam **mojego męża** jak mu idzie opieka nad naszym dzieckiem i wysłał mi zdjęcie*
+
 
 Para expresar **nombres con cantidades que terminan en números**:
 
