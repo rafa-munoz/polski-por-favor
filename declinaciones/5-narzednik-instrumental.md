@@ -62,7 +62,8 @@ Adjetivo neutro es igual que el masculino. Si acaba en “-e” al final se camb
 por -(y/i)m. Si acaba en "-ie", quitar la "-e" y terminar en "-im".
 * Marcin to mądre dziecko - Marcin jest **mądrym dzieckiem**.*
 
-Sustantivo + Adjetivo plural. Añadir "-oma", “-ami” si la palabra acaba en consonante o
+Sustantivo + Adjetivo plural. Añadir "-oma" para algunas palabras que no son
+sustantivos, “-ami” si la palabra acaba en consonante o
 "-mi" si acaba en vocal. Para el femenino plural y neutro plural, el adjetivo se
 cambia a masculino. Los plurales acabados en ci, ni, si o zi, acaban en -mi
 omitiendo la “i” h recibiendo la letra de antes un acento.
