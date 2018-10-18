@@ -11,7 +11,7 @@ En polaco hay 7 formas:
 * Celownik (Dativo)
 * Biernik (Acusativo)
 * Narzędnik (Instrumental)
-* Miejscownik (Locativo)
+* [Miejscownik (Locativo)](6-miejscownik-locativo.md)
 * Wołacz (Vocativo)
 
 
