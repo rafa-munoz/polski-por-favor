@@ -56,7 +56,7 @@ Adjetivo masculino. Agregar al final tras "-y" ó "-i" una "-m" (-ym o -im)
 * *Piotr jest przystojnym chłopakiem.*
 * *chcę rozmawiać z Twoim szefem.*
 * *kim jesteś?: who are you?*
-* to mój drugi mąż - on jest moim drugim mężem.*
+* *to mój drugi mąż - on jest moim drugim mężem.*
 
 Adjetivo neutro es igual que el masculino. Si acaba en “-e” al final se cambia
 por -(y/i)m. Si acaba en "-ie", quitar la "-e" y terminar en "-im".
@@ -106,7 +106,7 @@ en infinitivo.
 * *być spóźnionym na spotkanie.*
 * *jestem spóźniony (na spotkanie).* (No se declina)
 
-Anotaciones [3]
+Anotaciones [2]
 ---------------
 
 Para algunas palabras con dos consonantes, la “z” pasa a ser “ze” para hacer la
