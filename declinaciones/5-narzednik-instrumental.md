@@ -23,15 +23,15 @@ Aparece después de determinadas preposiciones:
 * pred: delante de.
 
 Expresión de tiempos en los que algo ha sucedido.
-* *niestety wtedy końce pracę wieczorem.*
-* *następnym razem jedziemy razem.*
+* *niestety wtedy końce pracę **wieczorem**.*
+* ***następnym razem** jedziemy razem.*
 
 Descripción del medio de transporte en el que se ha viajado.
 
 Sustantivo + Adjetivo femenino. Sustituir "-a" por "-ą" (Ver Anotaciones [1]):
-* *podróże z moją siostrą: viajes con mi hermana.*
-* *ja jestem Polką: soy polaca.* (siendo "polaca" un nombre, no un adjetivo).
-* *Marzena interesuje się modą: Marzena está interesada en la moda*
+* *podróże z **moją siostrą**: viajes con mi hermana.*
+* *ja jestem **Polką**: soy polaca.* (siendo "polaca" un nombre, no un adjetivo).
+* *Marzena interesuje się **modą**: Marzena está interesada en la moda*
 
 Sustantivo masculino. Si acaba en consonante, agregamos "-em". Si acaba en "-a",
 sustituir por "-ą", como si fuera femenino. Si acaba en "k" o "g", entonces
@@ -60,35 +60,35 @@ Adjetivo masculino. Agregar al final tras "-y" ó "-i" una "-m" (-ym o -im)
 
 Adjetivo neutro es igual que el masculino. Si acaba en “-e” al final se cambia
 por -(y/i)m. Si acaba en "-ie", quitar la "-e" y terminar en "-im".
-* Marcin to mądre dziecko - Marcin jest mądrym dzieckiem.*
+* Marcin to mądre dziecko - Marcin jest **mądrym dzieckiem**.*
 
-Sustantivo + Adjetivo plural. Añadir “-ami” si la palabra acaba en consonante o
+Sustantivo + Adjetivo plural. Añadir "-oma", “-ami” si la palabra acaba en consonante o
 "-mi" si acaba en vocal. Para el femenino plural y neutro plural, el adjetivo se
 cambia a masculino. Los plurales acabados en ci, ni, si o zi, acaban en -mi
 omitiendo la “i” h recibiendo la letra de antes un acento.
 * *młody (young) Islandczyk [masc. sing.] >>> młodymi Islandczykami.*
 * *piękna Hiszpanka [fem. sing.] >>> pięknami pięknymi Hiszpankami.*
-* *one są Brazylijkami.*
-* *byłem z przyjaciółmi (przyjaciele).*
+* *one są **Brazylijkami**.*
+* *byłem z **przyjaciółmi** (przyjaciele).*
 * *dzieci >>> dziećmi*
 * *konie >>> końmi*
 * *ludzie >>> ludźmi*
 * *bracia >>> braćmi*
 
 Más ejemplos:
-* *w domu jeszcze pachnie ciastami.*
-* *przed obiadem: antes del almuerzo.*
-* *z wieloma osobami: con mucha gente.* (EXCEPCIÓN: el -oma se
-  lo sacan de la manga).
-* *brak wiadomości jest dobrą wiadomością [wiadomość (fem.)]: si no hay
+* *w domu jeszcze pachnie **ciastami**: en casa todavía huele a galletas.*
+* *przed **obiadem**: antes del almuerzo.*
+* *z **wieloma osobami**: con mucha gente.*
+* *on wladza **kilkoma jezykami**: el domina varias lenguas.*
+* *brak wiadomości jest **dobrą wiadomością** [wiadomość (fem.)]: si no hay
   noticias, es buena noticia.*
-* *szukam mieszkanie z dwoma balkonami: estoy buscando un apartamento con dos balcones.*
-* *z dwoma małymi walizkami.*
-* *z kim idziesz do kina?: ¿con quién vas al cine?*
-* *ze ścierką: con el trapo* (Ver Anotaciones [2])
-* *ja interesuje się sportem a ona muzyką: I’m interested in sports and
+* *szukam mieszkanie z **dwoma balkonami**: estoy buscando un apartamento con dos balcones.*
+* *z **dwoma małymi walizkami**: con dos maletas pequeñas.*
+* *z **kim** idziesz do kina?: ¿con quién vas al cine?*
+* *ze **ścierką**: con el trapo* (Ver Anotaciones [2])
+* *ja interesuje się **sportem** a ona **muzyką**: I’m interested in sports and
   she’s interested in music.*
-* *chciałbym w przyszłości zostać lekarzem: I want to become a doctor in the
+* *chciałbym w przyszłości zostać **lekarzem**: I want to become a doctor in the
   future.*
 
 Anotaciones [1]
@@ -99,11 +99,11 @@ nominativo. Pero una vez que aparezca el sustantivo, el adjetivo tiene que
 declinarse. Al menos por norma general, pero hay excepciones si se utiliza "być"
 en infinitivo.
 * *on jest cierpliwy: él es paciente.* (No se declina)
-* *on jest cierpliwym chłopakiem: él es un chico paciente.*
-* *ona jest niecierpliwą {impaciente} dziewczyną.*
-* *być opóźnionym (w rozwoju): ser retrasado.*
+* *on jest **cierpliwym chłopakiem**: él es un chico paciente.*
+* *ona jest **niecierpliwą** {impaciente} **dziewczyną**.*
+* *być **opóźnionym** (w rozwoju): ser retrasado.*
 * *on jest opóźniony (w rozwoju): él es retrasado.* (No se declina)
-* *być spóźnionym na spotkanie.*
+* *być **spóźnionym** na spotkanie.*
 * *jestem spóźniony (na spotkanie).* (No se declina)
 
 Anotaciones [2]
@@ -124,4 +124,3 @@ Hay casos que no se declinan. Por ejemplo cuando se traduce algo como “hay” 
 * *jest godzina ósma (se utiliza aquí el nominativo femenino, por que se
   refiere a “godzina”).*
 * *czy jest lekarz?: ¿está el doctor ahí? / ¿hay doctor?*
-
