@@ -42,8 +42,8 @@ agregamos "-iem" (Ver Anotaciones [1]):
 * *Belg >>> Belgiem: belga (nombre).*
 * *Niemiec >>> Niemcem: alemán (nombre).*
 * *mąż >>> mężem: marido.*
-* *metro >>> oni jadą metrem*
-* *on jest optymistą*
+* *metro >>> oni jadą **metrem***
+* *on jest **optymistą***
 
 Sustantivo neutro. Se declina como masculino.
 * *auto >>> autem*
@@ -53,10 +53,10 @@ Adjetivo masculino. Agregar al final tras "-y" ó "-i" una "-m" (-ym o -im)
 (Ver Anotaciones [1]):
 * *przystojny (handsome) >>> przystojnym.*
 * *różowy {rosado} >>> różowym.*
-* *Piotr jest przystojnym chłopakiem.*
-* *chcę rozmawiać z Twoim szefem.*
+* *Piotr jest **przystojnym chłopakiem**.*
+* *chcę rozmawiać z **Twoim szefem**.*
 * *kim jesteś?: who are you?*
-* *to mój drugi mąż - on jest moim drugim mężem.*
+* *to mój drugi mąż - on jest **moim drugim mężem**.*
 
 Adjetivo neutro es igual que el masculino. Si acaba en “-e” al final se cambia
 por -(y/i)m. Si acaba en "-ie", quitar la "-e" y terminar en "-im".
