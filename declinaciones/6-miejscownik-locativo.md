@@ -5,8 +5,8 @@ Junto a dopełniacz (genitivo), es una de las declinaciones más comunes que
 existen.
 
 Esta declinación responde a ciertas preguntas:
-* **kim?: ¿con quién?**
-* **czym?: ¿con qué?**
+* **o kim?: ¿sobre quién?**
+* **o czym?: ¿sobre qué?**
 
 Aparece después de determinados verbos:
 * być: siempre que éste se utilice para expresar una profesión, relación o
