@@ -9,7 +9,7 @@ En polaco hay 7 formas:
 * [Mianownik (Nominativo)](1-nominativo.md)
 * [Dopełniacz (Genitivo)](2-genitivo-dopelniacz.md)
 * Celownik (Dativo)
-* Biernik (Acusativo)
+* [Biernik (Acusativo)](4-biernik-acusativo.md)
 * [Narzędnik (Instrumental)](5-narzednik-instrumental.md)
 * Miejscownik (Locativo)
 * Wołacz (Vocativo)
