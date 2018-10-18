@@ -5,8 +5,8 @@ Junto a dopełniacz (genitivo), es una de las declinaciones más comunes que
 existen.
 
 Esta declinación responde a ciertas preguntas:
-* **(z) kim?: ¿con quién?**
-* **(z) czym?: ¿con qué?**
+* (z) kim?: ¿con quién?
+* (z) czym?: ¿con qué?
 
 Aparece después de determinados verbos:
 * być: siempre que éste se utilice para expresar una profesión, relación o
@@ -16,14 +16,15 @@ Aparece después de determinados verbos:
 * pachnieć: oler.
 * okazać się: (to prove to be).
 * tęsknić: echar de menos.
+* opiekować się: ocuparse.
 
 Aparece después de determinadas preposiciones:
 * z: con.
 * pred: delante de.
 
 Expresión de tiempos en los que algo ha sucedido.
-* *niestety wtedy końce pracę wieczorem*
-* *następnym razem jedziemy razem*
+* *niestety wtedy końce pracę wieczorem.*
+* *następnym razem jedziemy razem.*
 
 Descripción del medio de transporte en el que se ha viajado.
 
@@ -39,58 +40,56 @@ agregamos "-iem" (Ver Anotaciones [1]):
 * *kot (cat) >>> kotem*
 * *tata >>> tatą*
 * *Belg >>> Belgiem: belga (nombre).*
-* *Niemiec >>> Niemcem: alemán (nombre).* (Ver Anotaciones [2])
-* *mąż >>> mężem: marido.* (Ver Anotaciones [2])
-* *oni jadą metrem*
+* *Niemiec >>> Niemcem: alemán (nombre).*
+* *mąż >>> mężem: marido.*
+* *metro >>> oni jadą metrem*
 * *on jest optymistą*
 
-Sustantivo neutro. Se disfraza de masculino.
+Sustantivo neutro. Se declina como masculino.
 * *auto >>> autem*
 * *dziecko >>> dzieckiem*
 
 Adjetivo masculino. Agregar al final tras "-y" ó "-i" una "-m" (-ym o -im)
 (Ver Anotaciones [1]):
-* *przystojny (handsome) >>> przystojnym*
-* *różowy {rosado} >>> różowym*
-* *Piotr jest przystojnym chłopakiem*
-* *chcę rozmawiać z Twoim szefem*
+* *przystojny (handsome) >>> przystojnym.*
+* *różowy {rosado} >>> różowym.*
+* *Piotr jest przystojnym chłopakiem.*
+* *chcę rozmawiać z Twoim szefem.*
 * *kim jesteś?: who are you?*
-* to mój drugi mąż - on jest moim drugim mężem*
+* to mój drugi mąż - on jest moim drugim mężem.*
 
 Adjetivo neutro es igual que el masculino. Si acaba en “-e” al final se cambia
 por -(y/i)m. Si acaba en "-ie", quitar la "-e" y terminar en "-im".
-* Marcin to mądre dziecko - Marcin jest mądrym dzieckiem*
+* Marcin to mądre dziecko - Marcin jest mądrym dzieckiem.*
 
 Sustantivo + Adjetivo plural. Añadir “-ami” si la palabra acaba en consonante o
 "-mi" si acaba en vocal. Para el femenino plural y neutro plural, el adjetivo se
 cambia a masculino. Los plurales acabados en ci, ni, si o zi, acaban en -mi
 omitiendo la “i” h recibiendo la letra de antes un acento.
-* *młody (young) Islandczyk [masc. sing.] >>> młodymi Islandczykami*
-* *piękna Hiszpanka [fem. sing.] >>> pięknami pięknymi Hiszpankami*
-* *one są Brazylijkami*
-* *byłem z przyjaciółmi (przyjaciele)*
+* *młody (young) Islandczyk [masc. sing.] >>> młodymi Islandczykami.*
+* *piękna Hiszpanka [fem. sing.] >>> pięknami pięknymi Hiszpankami.*
+* *one są Brazylijkami.*
+* *byłem z przyjaciółmi (przyjaciele).*
 * *dzieci >>> dziećmi*
 * *konie >>> końmi*
 * *ludzie >>> ludźmi*
 * *bracia >>> braćmi*
 
 Más ejemplos:
-* *mam prezent: (EXCEPCIÓN: es masculino, ¡pero no se declina!)*
-* *w domu jeszcze pachnie ciastami*
+* *w domu jeszcze pachnie ciastami.*
 * *przed obiadem: antes del almuerzo.*
 * *z wieloma osobami: con mucha gente.* (EXCEPCIÓN: el -oma se
   lo sacan de la manga).
 * *brak wiadomości jest dobrą wiadomością [wiadomość (fem.)]: si no hay
   noticias, es buena noticia.*
-* *szukam mieszkanie z dwoma balkonami: I’m looking for an apartment with two
-  balconies {estoy buscando un apartamento con dos balcones}*
-* *z dwoma małymi walizkami*
-* *z kim idziesz do kina?: ¿con quién vas al cine?.*
-* *ze ścierką: con el trapo* (Ver Anotaciones [3])
+* *szukam mieszkanie z dwoma balkonami: estoy buscando un apartamento con dos balcones.*
+* *z dwoma małymi walizkami.*
+* *z kim idziesz do kina?: ¿con quién vas al cine?*
+* *ze ścierką: con el trapo* (Ver Anotaciones [2])
 * *ja interesuje się sportem a ona muzyką: I’m interested in sports and
-  she’s interested in music*
+  she’s interested in music.*
 * *chciałbym w przyszłości zostać lekarzem: I want to become a doctor in the
-  future*
+  future.*
 
 Anotaciones [1]
 ---------------
@@ -107,17 +106,11 @@ en infinitivo.
 * *być spóźnionym na spotkanie.*
 * *jestem spóźniony (na spotkanie).* (No se declina)
 
-
-Anotaciones [2]
----------------
-
-Este tipo de cambios son así de "random", y hay que aprendérselos de memoria.
-
 Anotaciones [3]
 ---------------
 
 Para algunas palabras con dos consonantes, la “z” pasa a ser “ze” para hacer la
-pronunciación más fácil. Cuidado que “z” puede significar “from” {de}).
+pronunciación más fácil. Cuidado que “z” puede significar “from” {de, desde}).
 
 Hay casos que no se declinan. Por ejemplo cuando se traduce algo como “hay” o
 “está”, es una descripción de alguien o algo y se dice qué hora es. Ejemplos:
