@@ -10,8 +10,8 @@ En polaco hay 7 formas:
 * [Dopełniacz (Genitivo)](2-genitivo-dopelniacz.md)
 * Celownik (Dativo)
 * Biernik (Acusativo)
-* Narzędnik (Instrumental)
-* [Miejscownik (Locativo)](6-miejscownik-locativo.md)
+* [Narzędnik (Instrumental)](5-narzednik-instrumental.md)
+* Miejscownik (Locativo)
 * Wołacz (Vocativo)
 
 
