@@ -2,6 +2,8 @@
 
 Polaco avanzado para hispanohablantes.
 
+https://menda.github.io/polski-por-favor/
+
 ## Tabla de contenidos
 
 * [Przypadki (declinaciones)](declinaciones/index.md)
