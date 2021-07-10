@@ -191,6 +191,32 @@ Formación de sustantivos
 </table>
 
 
+Masculinos inanimados: cuando usar -u o -a
+------------------------------------------
+
+Sustantivos masculinos inanimados singulares que terminan en -u:
+
+- Días de la semana: poniedziałku, piątku.
+- Sustancias en polvo o grano: ryżu, piasku, grochu, cukru.
+- Sustantivos abstractos: sensu, humoru.
+- Sustantivos de origen extranjero: hotelu, termometru, internetu.
+- Medios de locomoción: samolotu, samochodu (ale! motocykla).
+- Elementos químicos: tlenu, wodoru, uranu.
+- Sustancias líquidas y semilíquidas: soku, ketchupu, kleju
+- Nombres que agrupan conjuntos de elementos: lasu, tłumu, oddziału.
+
+Sustantivos masculinos inanimados singulares que terminan en -a:
+- Meses: maja, stycznia, października (ale! lutego).
+- Deportes y juegos: golfa, tenisa.
+- Tipos de baile: walca, tanga.
+- Divisas: funta, dolara.
+- Cubertería, vajilla: noża, widelca, talerza, śrubokręta, garnka.
+- Fruta, verdura, setas: banana, pomidora, ogórka, maślaka, prawdziwka.
+- Marcas de coches: Opla, Forda, Seata.
+- Partes del cuerpo: nosa, brzucha, ucha (ale! karku).
+- Ciudades polacas: Gdańska, Poznania, Krakowa, Rzeszowa (ale! Kołobrzegu, Ełku).
+
+
 Más ejemplos
 ------------
 
