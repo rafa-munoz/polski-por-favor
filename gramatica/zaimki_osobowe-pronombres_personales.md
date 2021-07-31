@@ -82,14 +82,26 @@ Zaimki osobowe (pronombres personales)
 Usar formas largas o cortas
 ===========================
 
-Las formas largas preposicionales se utilizan siempre en el inicio de la frase:
+Las formas largas:
+
+- Al inicio de la frase.
+- Para enfatizar.
+- Después de una preposición.
 
 * **Tobie** się to podoba? = Podoba Ci się to? (celownik)
 * idę po **niego**: voy a por él (biernik).
 
-Las formas cortas van después de los verbos:
+Las formas cortas:
+
+- En medio de la oración.
 
 * powiem **Ci** to: voy a decírtelo / te lo digo.
+
+Ejemplos:
+
+- Lubię **cię** słuchać. Pięknie śpiewasz. / **Ciebie** szczególnie lubię słuchać.
+- Nie ma (Piotrka). **Jego** nie będzie też jutro, bo jest chory. / Nie będzie **go** też jutro, bo jest chory.
+
 
 Hablar con educación
 ====================
