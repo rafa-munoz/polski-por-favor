@@ -88,9 +88,6 @@ Las formas largas:
 - Para enfatizar.
 - Después de una preposición.
 
-* **Tobie** się to podoba? = Podoba Ci się to? (celownik)
-* idę po **niego**: voy a por él (biernik).
-
 Las formas cortas:
 
 - En medio de la oración.
@@ -99,8 +96,10 @@ Las formas cortas:
 
 Ejemplos:
 
+- **Tobie** się to podoba? = Podoba **Ci** się to? (celownik)
 - Lubię **cię** słuchać. Pięknie śpiewasz. / **Ciebie** szczególnie lubię słuchać.
 - Nie ma (Piotrka). **Jego** nie będzie też jutro, bo jest chory. / Nie będzie **go** też jutro, bo jest chory.
+- Idę po **niego**: voy a por él (biernik).
 
 
 Hablar con educación
